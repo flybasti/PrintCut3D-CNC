@@ -1,6 +1,6 @@
 Welcome to the Open Source Project PrintCut3D CNC Maschine
 
-Shortly here will be the hole Step Files for the Maschine a Bom List and a building guide. I have the machine in operation for almost a year and I am very satisfied with it. I cut almost only Aluminium with it.
+Shortly here will be the hole Step Files for the Maschine a Bom List and a building guide. I have the Maschine in operation for almost a year and I am very satisfied with it. 
 
 This project is licensed as image
 ![image](https://github.com/flybasti/PrintCut3D-CNC-Fr-se/assets/99893520/7a0d3cca-0b39-4d3c-9407-bddf9b343ce8)
