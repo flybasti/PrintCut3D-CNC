@@ -4,9 +4,9 @@ Shortly here will be the hole Step Files for the Maschine a Bom List and a build
 
 ![PrintCut3D CNC](https://github.com/flybasti/PrintCut3D-CNC/blob/9f335cc5e37ae0fcaeacb31115ba7858e9e7db33/cnc.jpg)
 
-title: Example product landing page
+
 product_video: 'https://youtu.be/h5Xs9aLtgl4?si=oxfnudddKdDX2A_I'
-product_video_transcript: /content/video-transcripts/TRANSCRIPT-TITLE
+
 
 This project is licensed as image
 ![image](https://github.com/flybasti/PrintCut3D-CNC-Fr-se/assets/99893520/7a0d3cca-0b39-4d3c-9407-bddf9b343ce8)
