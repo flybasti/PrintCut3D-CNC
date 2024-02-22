@@ -1,1 +1,18 @@
+This is a CNC Control example for Estlcam. I use this control by myself.
 
+1x Electronics housing 32x27x12 (found one on Ebay) i little bit bigger would be better but everthing fits.
+1x Fan
+1x Kaltgerätestecker Buchse
+3x Leadshine DM542 EU
+1x Estlcam Klemmen Adapter
+1x SNT RS 15 24 Schaltnetzteil
+1x Mean Well LRS-350-48 Netzteil 350W 48V
+
+Relays and sockets depends on what you want to control. I have three and thats enough for me
+
+Finder Relais 230V AC | 24V AC | 24V DC | 2 Wechsler Koppelrelais | 40.52.8.230
+
+1x Spindel 2,2kw water cooled with frequency converter. 
+1x Waterpump
+
+3x Stepper Online 23HE45-4204S
