@@ -1,5 +1,8 @@
 Welcome to the Open Source Project PrintCut3D CNC Maschine
 
+The hole project is for free, but some guys ask me how they can give me a donation. It`s possible via Paypal
+http://paypal.me/PrintCut3D
+
 Shortly here will be the hole Step Files for the Maschine a Bom List and a building guide. I have the Maschine in operation for almost a year and I am very satisfied with it. 
 
 The workspace is 170mm x 640mm x 800mm.The y axis can be extended very easily.  Up to 1000mm only one ball screw is required. Larger dimensions should use two.
